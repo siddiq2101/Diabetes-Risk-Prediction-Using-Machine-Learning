@@ -1,4 +1,4 @@
-### Diabetes Risk Prediction Using Machine Learning 
+# Diabetes Risk Prediction Using Machine Learning 
 
 ## Project Overview
 Diabetes Mellitus is one of the most critical health concerns worldwide, often leading to severe complications such as heart disease, kidney damage, and nerve disorders. This project leverages *machine learning techniques* to predict the risk of diabetes using clinical and historical data.
